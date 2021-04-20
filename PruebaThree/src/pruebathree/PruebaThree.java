@@ -1,21 +1,13 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+//Prueba para ver si cambia el codigo, simplemente es un saludo.
 package pruebathree;
 
-/**
- *
- * @author nekokawai99
- */
 public class PruebaThree {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hola Mundo GitHub, Soy Andrew");
+        int a = 1;
+        int b = 2;
+        System.out.println(a+b);
     }
     
 }

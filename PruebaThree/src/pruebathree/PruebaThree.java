@@ -11,6 +11,13 @@ public class PruebaThree {
         System.out.println("En todo funcionan los cambios");
         System.out.println("En todo funcionan los cambios");System.out.println("En todo funcionan los cambios");
         System.out.println("Soy alex");
+        alex cow = new alex(a,b);
+
+        System.out.println("El valor de a es: "+cow.get()+
+                " El valor de B es: "+cow.getb()+
+                " La suma de estos dos valores es "+cow.suma());
+      
+        
     }
     
 }

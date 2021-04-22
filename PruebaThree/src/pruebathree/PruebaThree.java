@@ -9,7 +9,8 @@ public class PruebaThree {
         int b = 2;
         System.out.println(a+b);
         System.out.println("En todo funcionan los cambios");
-        System.out.println("En todo funcionan los cambios");
+        System.out.println("En todo funcionan los cambios");System.out.println("En todo funcionan los cambios");
+        System.out.println("Soy alex");
     }
     
 }

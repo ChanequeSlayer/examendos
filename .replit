@@ -1,0 +1,2 @@
+language = "java10"
+run = "java PruebaThree/src/pruebathree/PruebaThree.java"

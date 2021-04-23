@@ -10,6 +10,21 @@ public class PruebaThree {
         System.out.println(a+b);
         System.out.println("En todo funcionan los cambios");
         System.out.println("En todo funcionan los cambios");
+        
+        PruebaThree si= new PruebaThree();
+        si.mensaje();
+        
+        //objeto que llama al constructor
+        algo otro=new algo();
+        otro.girar(true/*aquí están los argumentos*/);
+        
+        //llamando el dato privado
+        otro.setAzul(true);
+        otro.isAzul();
+        
     }
-    
+    public void mensaje(){
+        System.out.println("Gracias por las clases nocturnas <3");
+  
+    }
 }
